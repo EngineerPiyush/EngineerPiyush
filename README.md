@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Piyush Dubey
+# 🚀 Hi, My name is Piyush Dubey
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Backend%20Developer&fontSize=42&fontColor=ffffff" />
 
